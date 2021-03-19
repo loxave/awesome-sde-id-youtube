@@ -82,6 +82,7 @@
 ## K
 
 + [Kawan Koding](https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg)
++ [Kelas Coding](https://www.youtube.com/channel/UCwlflGBvCW3054DMv054lLg)
 + [Kelas Terbuka](https://www.youtube.com/channel/UCnrZ-UFSzeMSxKx_OHtwKsQ)
 + [Kelas Koding](https://www.youtube.com/channel/UCrDhhfIrq-Oc1EBVHWqYhUw)
 + [KopiAnan](https://www.youtube.com/channel/UC1NN2986RQGNmzhDUl_WtyQ)
